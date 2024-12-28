@@ -1,0 +1,44 @@
+{
+  "Userlist": [
+    {
+      "id": "th44",
+      "Name": "Rahul",
+      "City": "Solapur",
+      "Role": "Developer",
+      "EmailId": "rahul88@gmail.com",
+      "Gender": "Male"
+    },
+    {
+      "id": "3c01",
+      "Name": "Ram",
+      "City": "Pune",
+      "Role": "SAP ",
+      "EmailId": "ram99@gmail.com",
+      "Gender": "Male"
+    },
+    {
+      "id": "3ccvff01",
+      "Name": "Yog",
+      "City": "Hyderabad",
+      "Role": "QA Lead ",
+      "EmailId": "yog77@gmail.com",
+      "Gender": "Male"
+    },
+    {
+      "id": "3dff5c01",
+      "Name": "Shurti",
+      "City": "Pune",
+      "Role": ".Net ",
+      "EmailId": "shuru44@gmail.com",
+      "Gender": "Female"
+    },
+    {
+      "id": "50ee",
+      "Name": "Rakesh",
+      "City": "Hyderabad",
+      "Role": "QA",
+      "EmailId": "rakesh33@gmail.com",
+      "Gender": "Male"
+    }
+  ]
+}

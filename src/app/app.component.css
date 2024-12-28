@@ -1,0 +1,9 @@
+/* @media (max-width: 576px) {
+    .table td .d-flex {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .table td .d-flex button {
+        margin-bottom: 5px;
+    }
+} */

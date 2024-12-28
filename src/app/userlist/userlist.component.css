@@ -1,0 +1,113 @@
+.form-control {
+    border: 1px solid #b1c5bc;
+}
+
+/* Small device screen older version  very small devices */
+@media(max-width:320px) {
+    .card {
+        background-color: rgb(82, 82, 252);
+    }
+}
+
+/* Small Mobile Devices (Up to 480px)  4.7-inch screen*/
+@media(max-width:480px) {
+    .card {
+        background-color: rgb(235, 101, 12);
+    }
+}
+
+/* Many smartphones with a 5 to 6-inch display  */
+@media(max-width:600px) {
+    .card {
+        background-color: rgb(231, 29, 124);
+    }
+}
+
+/*  All smartphone device  Covers larger smartphones or small tablet */
+/* @media(max-width:768px){
+    .card{
+    background-color: chartreuse;
+
+   
+    }
+    .main-box{
+    
+        
+    }
+    th{
+       background-color: aqua;
+
+    }
+    .d-flex{
+     background-color: aqua;
+    }
+    .card-body{
+        
+        background-color: red;
+        
+    }
+    tr{
+        background-color: red;
+    }ba
+    .main-table{
+        background-color: aqua;
+    }
+   
+} */
+/* Tablet Devices */
+@media(min-width:600px)and(max-width:1024) {
+    .card {
+        background-color: rgb(245, 80, 80);
+    }
+}
+
+
+
+
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+    .card-header h5 {
+        font-size: 1.1rem;
+    }
+
+
+    .btn-sm {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+
+    }
+
+
+
+    .card-body {
+        padding: 0.5rem;
+    }
+
+    .table th,
+    .table td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
+
+    .d-flex {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+
+    .table td,
+    .table th {
+        display: block;
+        width: 100%;
+
+    }
+
+
+
+
+}
